@@ -1,7 +1,7 @@
 # SeabornPython
  Using Seaborn and Python to analyse and visualise Pokemon Gen1 data
 
-<h1>Overview of Seaborn</h1>
+## Overview of Seaborn
 Matplotlib is a potent but somewhat cumbersome Python visualisation toolkit, and Seaborn offers a high-level interface to it.
 
 According to Seaborn's official website:
