@@ -20,7 +20,7 @@ This is a pretty decent description of Seaborn's positive attributes, in our opi
 
 > The use of Seaborn as our go-to tool for exploratory analysis is due to these last three considerations. > It makes it incredibly simple to rapidly and effectively "get to know" your data.
 
-### This repo aims to teach seaborn and matplotlib using pokemon.
+### This repo aims to teach seaborn and matplotlib using Gen1 Pokemon data.
 
 You may learn how to utilise one of Python's most useful libraries for data visualisation in this step-by-step Python Seaborn tutorial.
 
