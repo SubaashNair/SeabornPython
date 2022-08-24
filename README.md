@@ -27,3 +27,27 @@ You may learn how to utilise one of Python's most useful libraries for data visu
 If you've used Matplotlib previously, you may have puzzled why it takes 10 lines of code to create a histogram that looks good.
 
 Seaborn is great if you want a quicker approach to create visually appealing charts. We'll go through everything you need to know to get started and utilise the amusing Pokémon dataset to achieve so (which you can download below).
+
+## Content
+
+
+1. Installing Seaborn
+2. Importing Libraries and Dataset
+3. Seaborn’s Plotting Functions
+   * Scatter Plot
+4. Customizing with Matplotlib
+5. The Role of Pandas
+   * Box Plot
+6. Seaborn Themes
+   * Violin Plot
+7. Color Palettes
+   * Swarm Plot
+8. Overlaying Plots
+9. Putting It All Together
+10. Pokédex
+    * Heatmap
+    * Histogram
+    * Bar Plot
+    * CatPlot (Categorical Plot)
+    * Density Plot
+    * Joint Distribution Plot
