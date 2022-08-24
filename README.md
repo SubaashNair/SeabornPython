@@ -52,4 +52,5 @@ Seaborn is great if you want a quicker approach to create visually appealing cha
     * Density Plot
     * Joint Distribution Plot
 
-* [![Next][Next.js]][Next-url]
+
+[![Next][Next.js]][Next-url]
