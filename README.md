@@ -18,4 +18,12 @@ This is a pretty decent description of Seaborn's positive attributes, in our opi
 <li>displaying data from dataframes and matrices.</li>
 </ul>
 
-The use of Seaborn as our go-to tool for exploratory analysis is due to these last three considerations. It makes it incredibly simple to rapidly and effectively "get to know" your data.
+> The use of Seaborn as our go-to tool for exploratory analysis is due to these last three considerations. > It makes it incredibly simple to rapidly and effectively "get to know" your data.
+
+### This repo aims to teach seaborn and matplotlib using pokemon.
+
+You may learn how to utilise one of Python's most useful libraries for data visualisation in this step-by-step Python Seaborn tutorial.
+
+If you've used Matplotlib previously, you may have puzzled why it takes 10 lines of code to create a histogram that looks good.
+
+Seaborn is great if you want a quicker approach to create visually appealing charts. We'll go through everything you need to know to get started and utilise the amusing Pokémon dataset to achieve so (which you can download below).
