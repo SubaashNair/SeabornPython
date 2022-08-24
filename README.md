@@ -28,7 +28,7 @@ You may learn how to utilise one of Python's most useful libraries for data visu
 
 If you've used Matplotlib previously, you may have puzzled why it takes 10 lines of code to create a histogram that looks good.
 
-Seaborn is great if you want a quicker approach to create visually appealing charts. We'll go through everything you need to know to get started and utilise the amusing Pokémon dataset to achieve so (which you can download [here]()).
+Seaborn is great if you want a quicker approach to create visually appealing charts. We'll go through everything you need to know to get started and utilise the amusing Pokémon dataset to achieve so (which you can download [here](https://raw.githubusercontent.com/SubaashNair/SeabornPython/main/Pokemon.csv?token=GHSAT0AAAAAABX7CQHFPISPVTNRI4BB4NXIYYF5ZYA)).
 
 ## Content
 
