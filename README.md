@@ -1,4 +1,4 @@
-# SeabornPython
+# Learning Seaborn, Matplotlib and Pandas using Python
  Using Seaborn and Python to analyse and visualise Pokemon Gen1 data
  
  [![My Skills](https://skills.thijs.gg/icons?i=py,md,git)](https://skills.thijs.gg)
