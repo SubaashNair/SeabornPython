@@ -51,3 +51,5 @@ Seaborn is great if you want a quicker approach to create visually appealing cha
     * CatPlot (Categorical Plot)
     * Density Plot
     * Joint Distribution Plot
+
+* [![Next][Next.js]][Next-url]
